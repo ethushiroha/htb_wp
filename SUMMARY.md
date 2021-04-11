@@ -10,4 +10,5 @@
     * [Included](start_point/Included.md)
 * [machine](Machine/README.md)
     * [Netmon](Machine/Netmon.md)
+    * [Blue](Machine/Blue.md)
 
