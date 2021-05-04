@@ -11,4 +11,5 @@
 * [machine](Machine/README.md)
     * [Netmon](Machine/Netmon.md)
     * [Blue](Machine/Blue.md)
+    * [Legacy](Machine/Legacy.md)
 
