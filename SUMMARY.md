@@ -13,4 +13,5 @@
     * [Blue](Machine/Blue.md)
     * [Legacy](Machine/Legacy.md)
     * [Devel](Machine/Devel.md)
+    * [Optimum](Machine/Optimum.md)
 
