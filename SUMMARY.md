@@ -12,4 +12,5 @@
     * [Netmon](Machine/Netmon.md)
     * [Blue](Machine/Blue.md)
     * [Legacy](Machine/Legacy.md)
+    * [Devel](Machine/Devel.md)
 
