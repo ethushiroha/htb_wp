@@ -65,6 +65,8 @@ except Exception as ex:
         print(ex)                                              
 ```
 
+有关这个漏洞的分析，请看[[CVE-2014-6287]REJETTO HTTP FILE SERVER远程命令执行漏洞分析](https://whereisk0shl.top/post/cve-2014-6287-rejetto-http-file-serveryuan-cheng-ming-ling-zhi-xing-lou-dong-fen-xi) written by k0shl。简单的说，是一个命令注入漏洞。
+
 运行一下，cs 上线
 
 ![image-20210603151008552](https://gitee.com/ethustdout/pic2/raw/master/uPic/image-20210603151008552.png)
@@ -72,6 +74,8 @@ except Exception as ex:
 上传 msf 的马， 得到一个 msf shell
 
 ![image-20210603151124202](https://gitee.com/ethustdout/pic2/raw/master/uPic/image-20210603151124202.png)
+
+## 提权
 
 看看提权建议
 
