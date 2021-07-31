@@ -15,4 +15,5 @@
     * [Devel](Machine/Devel.md)
     * [Optimum](Machine/Optimum.md)
     * [Ophiuchi](Machine/Ophiuchi.md)
+    * [Love](Machine/Love.md)
 
