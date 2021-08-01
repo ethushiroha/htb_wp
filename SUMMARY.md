@@ -16,4 +16,5 @@
     * [Optimum](Machine/Optimum.md)
     * [Ophiuchi](Machine/Ophiuchi.md)
     * [Love](Machine/Love.md)
+    * [Shocker](Machine/Shocker.md)
 
